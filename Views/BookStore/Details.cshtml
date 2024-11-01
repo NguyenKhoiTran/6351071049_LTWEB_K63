@@ -1,0 +1,59 @@
+﻿@model TH1.SACH
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>Book Details</h2>
+
+<div class="book-details-container">
+    <div class="row">
+        <!-- Left side: Book cover image -->
+        <div class="col-md-4 text-center">
+            <img src="~/Content/images/@Model.Anhbia" alt="Book Cover" class="img-fluid book-cover" />
+        </div>
+
+        <!-- Right side: Book information -->
+        <div class="col-md-8">
+            <h3>@Model.Tensach</h3>
+            <p class="text-muted">Category: @Model.CHUDE.TenChuDe</p>
+            <p class="text-muted">Publisher: @Model.NHAXUATBAN.TenNXB</p>
+
+            <div class="book-description">
+                <h4>Description</h4>
+                <p>@Model.Mota</p>
+            </div>
+
+            <div class="book-price">
+                <h4>Price: <span class="text-success">@Model.Giaban</span></h4>
+            </div>
+
+            <div class="book-stock">
+                <p><strong>Stock available:</strong> @Model.Soluongton</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Masach }, new { @class = "btn btn-primary" }) |
+    @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary" })
+</p>
+
+<style>
+    .book-details-container {
+        margin-top: 20px;
+    }
+
+    .book-cover {
+        max-width: 100%;
+        border: 1px solid #ddd;
+        padding: 10px;
+        background-color: #f9f9f9;
+    }
+
+    .book-description, .book-price {
+        margin-top: 15px;
+    }
+</style>

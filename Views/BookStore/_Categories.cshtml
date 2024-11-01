@@ -1,0 +1,11 @@
+﻿
+@model IEnumerable<TH1.CHUDE>
+
+<div class="list-group">
+    @foreach (var category in Model)
+    {
+       <a href="@Url.Action("BooksByCategory", "BookStore", new { categoryId = category.MaCD })" class="list-group-item">
+           @category.TenChuDe
+       </a>
+    }
+</div>

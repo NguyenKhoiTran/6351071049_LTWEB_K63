@@ -1,0 +1,44 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.book-item {
+    text-align: center; /* Center-align the content */
+    padding: 10px; /* Add some padding around each book item */
+}
+
+.book-cover {
+    width: 100px; /* Set the width of the book cover */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.book-name {
+    margin-top: 5px; /* Add space between the image and the name */
+    font-weight: bold; /* Make the name bold */
+}
+
+.book-stars {
+    margin-top: 5px; /* Add space between the name and the stars */
+}
+
+.star {
+    width: 20px; /* Set the width of the star icons */
+    height: auto; /* Maintain aspect ratio */
+    margin: 0 2px; /* Add some margin between stars */
+}
+
+

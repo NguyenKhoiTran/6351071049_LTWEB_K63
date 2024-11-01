@@ -1,0 +1,55 @@
+﻿@model IEnumerable<TH1.SACH>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+@*<h2>Index</h2>*@
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<div class="container">
+    <div class="row">
+        <!-- Left Side: Category List -->
+        <div class="col-md-3">
+
+            <h2>Book Title</h2>
+            @Html.Action("Chude", "BookStore")
+
+            <h2>Publisher</h2>
+            <div class="list-group">
+                @Html.Action("Publishers", "BookStore")
+            </div>
+        </div>
+
+        <!-- Right Side: Product Grid -->
+        <div class="col-md-9">
+            <div class="row">
+                @foreach (TH1.SACH item in Model) // Cast item to TH1.SACH
+                {
+                    <div class="col-md-4">
+                        <div class="book-item text-center">
+                            <img src="~/Content/images/@item.Anhbia" class="book-cover img-fluid" />
+                            <div class="book-name">
+                                @Html.ActionLink(item.Tensach, "Details", "BookStore", new { id = item.Masach }, null)
+                            </div>
+                            <div class="book-stars">
+                                <img src="~/Content/images/star-icon.png" class="star" />
+                                <img src="~/Content/images/star-icon.png" class="star" />
+                                <img src="~/Content/images/star-icon.png" class="star" />
+                                <img src="~/Content/images/star-icon.png" class="star" />
+                                <img src="~/Content/images/star-icon.png" class="star" />
+                            </div>
+                            <div>
+                                @Html.ActionLink("View Details", "Details", "BookStore", new { id = item.Masach }, new { @class = "btn btn-primary btn-sm mt-2" })
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
