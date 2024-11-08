@@ -32,6 +32,10 @@
             <div class="book-stock">
                 <p><strong>Stock available:</strong> @Model.Soluongton</p>
             </div>
+            <div id="Datmua" style="color:blueviolet">
+                <a href="@Url.Action("ThemGiohang", "Giohang", new { @iMasach = @Model.Masach, strURL=Request.Url.ToString() })">ĐẶT MUA
+                </a>
+            </div>
         </div>
     </div>
 </div>

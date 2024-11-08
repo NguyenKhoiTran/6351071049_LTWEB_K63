@@ -1,38 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\",
+  "WorkspaceRootPath": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|d:\\nguy\u00EAn\\laptrinhweb\\thuchanh\\th1\\th1\\views\\bookstore\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\views\\bookstore\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|solutionrelative:views\\bookstore\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|d:\\nguy\u00EAn\\laptrinhweb\\thuchanh\\th1\\views\\giohang\\xacnhandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|solutionrelative:views\\giohang\\xacnhandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\views\\bookstore\\chude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|solutionrelative:views\\bookstore\\chude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|d:\\nguy\u00EAn\\laptrinhweb\\thuchanh\\th1\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|solutionrelative:controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\views\\bookstore\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|solutionrelative:views\\bookstore\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|d:\\nguy\u00EAn\\laptrinhweb\\thuchanh\\th1\\views\\giohang\\dathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|solutionrelative:views\\giohang\\dathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\controllers\\bookstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|d:\\nguy\u00EAn\\laptrinhweb\\thuchanh\\th1\\views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|solutionrelative:views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|d:\\nguy\u00EAn\\laptrinhweb\\thuchanh\\th1\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|solutionrelative:controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|d:\\nguy\u00EAn\\laptrinhweb\\thuchanh\\th1\\views\\giohang\\giohangpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|solutionrelative:views\\giohang\\giohangpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|d:\\nguy\u00EAn\\laptrinhweb\\thuchanh\\th1\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|solutionrelative:models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|d:\\nguy\u00EAn\\laptrinhweb\\thuchanh\\th1\\content\\images\\img-14.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|solutionrelative:content\\images\\img-14.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|d:\\nguy\u00EAn\\laptrinhweb\\thuchanh\\th1\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|solutionrelative:views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|d:\\nguy\u00EAn\\laptrinhweb\\thuchanh\\th1\\controllers\\bookstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|solutionrelative:controllers\\bookstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\views\\bookstore\\_categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|d:\\nguy\u00EAn\\laptrinhweb\\thuchanh\\th1\\views\\nguoidung\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|solutionrelative:views\\nguoidung\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|d:\\nguy\u00EAn\\laptrinhweb\\thuchanh\\th1\\views\\nguoidung\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|solutionrelative:views\\nguoidung\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|d:\\nguy\u00EAn\\laptrinhweb\\thuchanh\\th1\\views\\bookstore\\_categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|solutionrelative:views\\bookstore\\_categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\views\\bookstore\\_publishers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\views\\bookstore\\_publishers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|solutionrelative:views\\bookstore\\_publishers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|solutionrelative:views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\views\\bookstore\\chude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3892C681-B191-44AB-BAE3-CD6235A6C9C8}|TH1.csproj|solutionrelative:views\\bookstore\\chude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,77 +74,197 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LayoutUser.cshtml",
+              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutUser.cshtml",
+              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutUser.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEUAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T08:27:24.492Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\Web.config",
-              "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\Web.config",
-              "RelativeToolTip": "Web.config",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAADtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-01T14:41:39.116Z",
+              "Title": "Xacnhandonhang.cshtml",
+              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\Giohang\\Xacnhandonhang.cshtml",
+              "RelativeDocumentMoniker": "Views\\Giohang\\Xacnhandonhang.cshtml",
+              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\Giohang\\Xacnhandonhang.cshtml",
+              "RelativeToolTip": "Views\\Giohang\\Xacnhandonhang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T09:12:55.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\Views\\BookStore\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\BookStore\\Details.cshtml",
-              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\Views\\BookStore\\Details.cshtml",
-              "RelativeToolTip": "Views\\BookStore\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Title": "DatHang.cshtml",
+              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\Giohang\\DatHang.cshtml",
+              "RelativeDocumentMoniker": "Views\\Giohang\\DatHang.cshtml",
+              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\Giohang\\DatHang.cshtml",
+              "RelativeToolTip": "Views\\Giohang\\DatHang.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswE4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T14:41:30.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Publishers.cshtml",
-              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\Views\\BookStore\\_Publishers.cshtml",
-              "RelativeDocumentMoniker": "Views\\BookStore\\_Publishers.cshtml",
-              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\Views\\BookStore\\_Publishers.cshtml",
-              "RelativeToolTip": "Views\\BookStore\\_Publishers.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T14:41:30.743Z"
+              "WhenOpened": "2024-11-08T08:51:22.868Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "_Categories.cshtml",
-              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\Views\\BookStore\\_Categories.cshtml",
-              "RelativeDocumentMoniker": "Views\\BookStore\\_Categories.cshtml",
-              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\Views\\BookStore\\_Categories.cshtml",
-              "RelativeToolTip": "Views\\BookStore\\_Categories.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T14:41:30.743Z"
+              "Title": "NguoiDungController.cs",
+              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Controllers\\NguoiDungController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NguoiDungController.cs",
+              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Controllers\\NguoiDungController.cs",
+              "RelativeToolTip": "Controllers\\NguoiDungController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:36:37.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GiohangController.cs",
+              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Controllers\\GiohangController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GiohangController.cs",
+              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Controllers\\GiohangController.cs",
+              "RelativeToolTip": "Controllers\\GiohangController.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAIwKYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:25:27.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Giohang.cs",
+              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Models\\Giohang.cs",
+              "RelativeDocumentMoniker": "Models\\Giohang.cs",
+              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Models\\Giohang.cs",
+              "RelativeToolTip": "Models\\Giohang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:22:00.291Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\Views\\BookStore\\Index.cshtml",
+              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\BookStore\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\BookStore\\Index.cshtml",
-              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\Views\\BookStore\\Index.cshtml",
+              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\BookStore\\Index.cshtml",
               "RelativeToolTip": "Views\\BookStore\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-01T14:41:31.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "GiohangPartial.cshtml",
+              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\Giohang\\GiohangPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Giohang\\GiohangPartial.cshtml",
+              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\Giohang\\GiohangPartial.cshtml",
+              "RelativeToolTip": "Views\\Giohang\\GiohangPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:54:58.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GioHang.cshtml",
+              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\Giohang\\GioHang.cshtml",
+              "RelativeDocumentMoniker": "Views\\Giohang\\GioHang.cshtml",
+              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\Giohang\\GioHang.cshtml",
+              "RelativeToolTip": "Views\\Giohang\\GioHang.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:35:52.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "img-14.png - PNG [210x306, 24 bit, PNG]",
+              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Content\\images\\img-14.png",
+              "RelativeDocumentMoniker": "Content\\images\\img-14.png",
+              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Content\\images\\img-14.png - PNG [210x306, 24 bit, PNG]",
+              "RelativeToolTip": "Content\\images\\img-14.png - PNG [210x306, 24 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-08T08:36:01.266Z",
+              "EditorCaption": " - PNG [210x306, 24 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookStoreController.cs",
+              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Controllers\\BookStoreController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookStoreController.cs",
+              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Controllers\\BookStoreController.cs",
+              "RelativeToolTip": "Controllers\\BookStoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:15:33.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\NguoiDung\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "Views\\NguoiDung\\DangKy.cshtml",
+              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\NguoiDung\\DangKy.cshtml",
+              "RelativeToolTip": "Views\\NguoiDung\\DangKy.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T06:18:20.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dangnhap.cshtml",
+              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\NguoiDung\\Dangnhap.cshtml",
+              "RelativeDocumentMoniker": "Views\\NguoiDung\\Dangnhap.cshtml",
+              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\NguoiDung\\Dangnhap.cshtml",
+              "RelativeToolTip": "Views\\NguoiDung\\Dangnhap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T06:39:52.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Categories.cshtml",
+              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\BookStore\\_Categories.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookStore\\_Categories.cshtml",
+              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\BookStore\\_Categories.cshtml",
+              "RelativeToolTip": "Views\\BookStore\\_Categories.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T14:41:30.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Chude.cshtml",
-              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\Views\\BookStore\\Chude.cshtml",
+              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\BookStore\\Chude.cshtml",
               "RelativeDocumentMoniker": "Views\\BookStore\\Chude.cshtml",
-              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\Views\\BookStore\\Chude.cshtml",
+              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\BookStore\\Chude.cshtml",
               "RelativeToolTip": "Views\\BookStore\\Chude.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -120,27 +272,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookStoreController.cs",
-              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\Controllers\\BookStoreController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BookStoreController.cs",
-              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\Controllers\\BookStoreController.cs",
-              "RelativeToolTip": "Controllers\\BookStoreController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T14:41:31.572Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_LayoutUser.cshtml",
-              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\Views\\Shared\\_LayoutUser.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutUser.cshtml",
-              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\TH1\\Views\\Shared\\_LayoutUser.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LayoutUser.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "_Publishers.cshtml",
+              "DocumentMoniker": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\BookStore\\_Publishers.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookStore\\_Publishers.cshtml",
+              "ToolTip": "D:\\NGUY\u00CAN\\LapTrinhWeb\\ThucHanh\\TH1\\Views\\BookStore\\_Publishers.cshtml",
+              "RelativeToolTip": "Views\\BookStore\\_Publishers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T14:41:31.574Z"
+              "WhenOpened": "2024-11-01T14:41:30.743Z"
             }
           ]
         }
