@@ -32,5 +32,6 @@ namespace TH1
         public DbSet<NHAXUATBAN> NHAXUATBANs { get; set; }
         public DbSet<SACH> SACHes { get; set; }
         public DbSet<TACGIA> TACGIAs { get; set; }
+        public DbSet<Admin> Admins { get; set; }
     }
 }

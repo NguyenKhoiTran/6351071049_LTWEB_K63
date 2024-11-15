@@ -302,3 +302,7 @@ D:\NGUYÊN\LapTrinhWeb\ThucHanh\TH1\bin\System.Web.Helpers.xml
 D:\NGUYÊN\LapTrinhWeb\ThucHanh\TH1\bin\System.Web.Mvc.xml
 D:\NGUYÊN\LapTrinhWeb\ThucHanh\TH1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\NGUYÊN\LapTrinhWeb\ThucHanh\TH1\obj\Debug\TH1.csproj.Up2Date
+D:\NGUYÊN\LapTrinhWeb\ThucHanh\TH1\bin\PagedList.dll
+D:\NGUYÊN\LapTrinhWeb\ThucHanh\TH1\bin\PagedList.Mvc.dll
+D:\NGUYÊN\LapTrinhWeb\ThucHanh\TH1\bin\PagedList.xml
+D:\NGUYÊN\LapTrinhWeb\ThucHanh\TH1\bin\PagedList.Mvc.xml

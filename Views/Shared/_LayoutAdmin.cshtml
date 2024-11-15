@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/css/LayoutAdmin.css" rel="stylesheet" />
+    <script src="~/tinymce/js/tinymce/tinymce.min.js"></script>
+    <script>tinymce.init({ selector: 'textarea ' });</script>
+</head>
+<body>
+    <!-- Thanh điều hướng -->
+    <div class="navbar">
+        <a href="@Url.Action("Index", "Admin")">Trang chủ</a>
+        <a href="@Url.Action("ThongKeSach", "Admin")">Thống kê sách</a>
+        <a href="@Url.Action("Sach", "Admin")">Quản lý Sách</a>
+        <a href="#">Quản lý NXB</a>
+        <a href="#">Quản lý Chủ đề</a>
+    </div>
+
+    <!-- Nội dung chính -->
+    <div class="container">
+        @RenderBody()
+    </div>
+</body>
+</html>

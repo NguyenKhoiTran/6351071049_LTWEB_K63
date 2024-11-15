@@ -4,7 +4,7 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="53466b921fa44ac4becdbc132080ee51" Name="Diagram1">
+      <Diagram DiagramId="53466b921fa44ac4becdbc132080ee51" Name="Diagram1" ZoomLevel="74">
         <EntityTypeShape EntityType="QLBANSACHModel.CHITIETDONTHANG" Width="1.5" PointX="5.25" PointY="1.625" IsExpanded="true" />
         <EntityTypeShape EntityType="QLBANSACHModel.CHUDE" Width="1.5" PointX="0.75" PointY="1.875" IsExpanded="true" />
         <EntityTypeShape EntityType="QLBANSACHModel.DONDATHANG" Width="1.5" PointX="3" PointY="9.375" IsExpanded="true" />
@@ -17,6 +17,7 @@
         <AssociationConnector Association="QLBANSACHModel.FK_Chude" ManuallyRouted="false" />
         <AssociationConnector Association="QLBANSACHModel.FK_Khachhang" ManuallyRouted="false" />
         <AssociationConnector Association="QLBANSACHModel.FK_NhaXB" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="QLBANSACHModel.Admin" Width="1.5" PointX="5.375" PointY="4.75" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

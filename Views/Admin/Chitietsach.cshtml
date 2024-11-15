@@ -1,0 +1,92 @@
+﻿@model TH1.SACH
+
+@{
+    ViewBag.Title = "Chitietsach";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>THÔNG TIN CHI TIẾT SÁCH</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <div class="d-flex">
+            <dt>
+                Mã sách:
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Masach)
+            </dd>
+        </div>
+        <div class="d-flex">
+            <dt>
+                Tên sách:
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Tensach)
+            </dd>
+        </div>
+        <div class="d-flex">
+            <dt>
+                Giá bán:
+            </dt>
+            <dd>
+                @String.Format("{0:0,0}", Model.Giaban) VNĐ
+            </dd>
+        </div>
+        <div class="d-flex">
+            <dt>
+                Mô tả :
+            </dt>
+            <dd style="width:600px; text-align:justify">
+                @Html.DisplayFor(model => model.Mota)
+            </dd>
+        </div>
+        <div class="d-flex">
+            <dt>
+                Ảnh bìa :
+            </dt>
+            <dd>
+                <img src="@Url.Content("~/Content/images/" + Model.Anhbia)" width="120px" />
+            </dd>
+        </div>
+        <div class="d-flex">
+            <dt>
+                Ngày cập nhật :
+            </dt>
+            <dd>
+                @String.Format("{0:dd/MM/yyyy}", Model.Ngaycapnhat)
+            </dd>
+        </div>
+        <div class="d-flex">
+            <dt>
+                Số lượng tồn :
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Soluongton)
+            </dd>
+        </div>
+        <div class="d-flex">
+            <dt>
+                Chủ đề :
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.CHUDE.TenChuDe)
+            </dd>
+        </div>
+        <div class="d-flex">
+            <dt>
+                Nhà xuất bản :
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.NHAXUATBAN.TenNXB)
+            </dd>
+        </div>
+
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("ĐIỀU CHỈNH", "Suasach", new { id = Model.Masach }) |
+    @Html.ActionLink("TRỞ VỀ", "Sach")
+</p>

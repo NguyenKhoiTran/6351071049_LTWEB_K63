@@ -1,5 +1,9 @@
 ﻿@model IEnumerable<TH1.SACH>
 
+@using TH1.Models;
+@using PagedList.Mvc;
+@model PagedList.PagedList<SACH>
+
 @{
     ViewBag.Title = "Index";
     Layout = "~/Views/Shared/_LayoutUser.cshtml";
@@ -53,3 +57,14 @@
         </div>
     </div>
 </div>
+Trang @(Model.PageCount<Model.PageNumber?0:Model.PageNumber)/@Model.PageCount
+<div class="MenuTrang">
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page, categoryId = ViewBag.CurrentCategoryId, publisherId = ViewBag.CurrentPublisherId }))
+</div>
+
+<style>
+    .MenuTrang li {
+        display: inline;
+    }
+</style>
+

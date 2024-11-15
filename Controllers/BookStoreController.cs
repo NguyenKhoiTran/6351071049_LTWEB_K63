@@ -2,6 +2,9 @@
 using System.Web.Mvc;
 using System.Data.Entity;
 
+using PagedList;
+using PagedList.Mvc;
+using System.Collections.Generic;
 // Ensure this matches your models namespace
 
 namespace TH1.Controllers
@@ -11,15 +14,39 @@ namespace TH1.Controllers
         QLBANSACHEntities db = new QLBANSACHEntities();
 
         // GET: BookStore
-        public ActionResult Index()
+        private List<SACH> Laysachmoi(int count)
         {
-            var latestBooks = db.SACHes
-                                .OrderByDescending(s => s.Ngaycapnhat)
-                                .Take(5)
-                                .ToList();
-
-            return View(latestBooks);
+            // Sắp xếp sách theo ngày cập nhật, sau đó lấy top @count
+            return db.SACHes.OrderByDescending(a => a.Ngaycapnhat).Take(count).ToList();
         }
+
+        public ActionResult Index(int? page, int? categoryId, int? publisherId)
+        {
+            int pageSize = 5;
+            int pageNum = (page ?? 1);
+
+            // Store the selected category and publisher in the ViewBag
+            ViewBag.CurrentCategoryId = categoryId;
+            ViewBag.CurrentPublisherId = publisherId;
+
+            var books = db.SACHes.AsQueryable();
+
+            // Apply category filter if selected
+            if (categoryId.HasValue)
+            {
+                books = books.Where(b => b.MaCD == categoryId.Value);
+            }
+
+            // Apply publisher filter if selected
+            if (publisherId.HasValue)
+            {
+                books = books.Where(b => b.MaNXB == publisherId.Value);
+            }
+
+            return View(books.OrderByDescending(b => b.Ngaycapnhat).ToPagedList(pageNum, pageSize));
+        }
+
+
 
         public ActionResult Chude()
         {
